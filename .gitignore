@@ -1,0 +1,47 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildHistory.xml
+.mvn/wrapper/maven-wrapper.jar
+.apt_generated
+
+# Gradle
+.gradle/
+build/
+*.iml
+.idea/
+.project
+.classpath
+.settings/
+.DS_Store
+*.log
+*.bak
+*.swp
+*.swo
+*.orig
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+hs_err_pid*.log
+*.log
+
+# IDEs
+.idea/
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
